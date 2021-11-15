@@ -1,2 +1,2 @@
 # Linears-models
-Linears models
+Написать функции прикрепленные в  файле
